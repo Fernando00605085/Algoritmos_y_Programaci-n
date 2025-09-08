@@ -1,3 +1,5 @@
+//00605085 Fernando Benavides Mena
+//Ing. en Tec. de la Inf y Neg. Dig.
 Algoritmo SEC02
 	Definir A, B, C Como Entero
 	//Se piden un valor para las variables "A" y "B"
@@ -10,3 +12,4 @@ Algoritmo SEC02
 	//Se muestra el valor de C en pantalla
 	Escribir C;
 FinAlgoritmo
+
