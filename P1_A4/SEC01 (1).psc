@@ -1,5 +1,6 @@
-
-	//Escribir un algoritnmo que sume dos úmeros: A = 4 B = 3
+//00605085 Fernando Benavides Mena
+//Ing. en Tec. de la Inf y Neg. Dig.
+	//Escribir un algoritnmo que sume dos Ãºmeros: A = 4 B = 3
 	Algoritmo SEC01
 		Definir A, B, C Como Entero
 		
@@ -11,3 +12,4 @@
 		//Muestra el valor de "C" en la consola
 		Escribir C;
 FinAlgoritmo
+
