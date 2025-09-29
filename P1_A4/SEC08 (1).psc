@@ -1,3 +1,5 @@
+//00605085 Fernando Benavides Mena
+//Ing. en Tec. de la Inf y Neg. Dig.
 Algoritmo SEC08
 	Definir Velocidad, Espacio, Tiempo Como Real;
 	
@@ -10,3 +12,4 @@ Algoritmo SEC08
 	
 	Escribir "La velocidad es:  ", Velocidad, " m/s";
 FinAlgoritmo
+
