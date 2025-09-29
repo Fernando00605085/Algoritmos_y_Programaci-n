@@ -1,3 +1,5 @@
+//00605085 Fernando Benavides Mena
+//Ing. en Tec. de la Inf y Neg. Dig.
 Algoritmo SEC07
 	Definir Radio Como Real
 	
@@ -7,3 +9,4 @@ Algoritmo SEC07
 	Escribir "El area de la circunferencia es:  ", Pi * Radio^2
 	Escribir "La longitud de la circunferencia es:  ", (2 * pi) * Radio;
 FinAlgoritmo
+
